@@ -1,0 +1,12 @@
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.16.5): 1767410699720 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+repair-wanted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+waffle-tattling.gl.at.ply.gg:39230 => 127.0.0.1:19132 (minecraft-bedrock)
+[2J8[0mplayit (v0.16.5): 1767410702835 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+repair-wanted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+waffle-tattling.gl.at.ply.gg:39230 => 127.0.0.1:19132 (minecraft-bedrock)

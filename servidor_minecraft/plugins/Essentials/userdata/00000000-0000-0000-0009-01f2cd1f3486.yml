@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.146.119.162
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1767470029112
+  login: 1767469793791
+money: '0'
+last-account-name: .XxDaniel_MC9243
+logoutlocation:
+  world: 8cae572f-0481-4c25-bb0d-7eca94290a76
+  world-name: world
+  x: -222.54665
+  y: 64.0
+  z: -156.8381
+  yaw: 122.918701171875
+  pitch: 6.2797698974609375

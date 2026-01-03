@@ -1,0 +1,81 @@
+[20:34:49] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Booting up Velocity 3.4.0-SNAPSHOT (git-4bc3f004-b559)...
+[20:34:49] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Loading localizations...
+[20:34:49] [main/INFO] [com.velocitypowered.proxy.network.ConnectionManager]: Connections will use epoll channels, libdeflate (Linux x86_64) compression, OpenSSL 3.x.x (Linux x86_64) ciphers
+[20:34:49] [main/WARN] [com.velocitypowered.proxy.config.VelocityConfiguration]: The proxy is running in offline mode! This is a security risk and you will NOT receive any support!
+[20:34:49] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Loading plugins...
+[20:34:50] [main/WARN] [floodgate]: en_ is not a supported Floodgate language.
+[20:34:50] [main/INFO] [floodgate]: Took 278ms to boot Floodgate
+[20:34:50] [main/INFO] [com.velocitypowered.proxy.plugin.VelocityPluginManager]: Loaded plugin floodgate 2.2.5-SNAPSHOT (b125-a772911) by GeyserMC
+[20:34:50] [main/INFO] [com.velocitypowered.proxy.plugin.VelocityPluginManager]: Loaded plugin geyser 2.9.2-b1015 (git-master-3332528) by GeyserMC
+[20:34:50] [main/INFO] [com.velocitypowered.proxy.plugin.VelocityPluginManager]: Loaded plugin geyserextras 2.0.0-BETA-11 by LetsGoAway
+[20:34:50] [main/INFO] [com.velocitypowered.proxy.plugin.VelocityPluginManager]: Loaded plugin skinsrestorer 15.9.1 by knat, AlexProgrammerDE, Blackfire62, McLive
+[20:34:50] [main/INFO] [com.velocitypowered.proxy.plugin.VelocityPluginManager]: Loaded plugin viaversion 5.7.0 by _MylesC, creeper123123321, Gerrygames, kennytv, Matsv, EnZaXD, RK_01
+[20:34:50] [main/INFO] [com.velocitypowered.proxy.plugin.VelocityPluginManager]: Loaded plugin viabackwards 5.7.0 by Matsv, kennytv, Gerrygames, creeper123123321, ForceUpdate1, EnZaXD
+[20:34:50] [main/INFO] [com.velocitypowered.proxy.plugin.VelocityPluginManager]: Loaded plugin viarewind 4.0.13 by FlorianMichael/EnZaXD, Gerrygames, creeper123123321
+[20:34:50] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Loaded 8 plugins
+[20:34:50] [floodgate - Task Executor #0/WARN] [com.velocitypowered.proxy.network.ConnectionManager]: The server channel initializer has been replaced by java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+[20:34:50] [floodgate - Task Executor #0/WARN] [com.velocitypowered.proxy.network.ConnectionManager]: The backend channel initializer has been replaced by java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+[20:34:52] [floodgate - Task Executor #0/INFO] [geyser]: Cargando extensiones...
+[20:34:52] [floodgate - Task Executor #0/INFO] [geyser]: Cargadas 0 extensión(es)
+[20:34:52] [floodgate - Task Executor #0/INFO] [geyserextras]: --------------GeyserExtras--------------
+[20:34:52] [floodgate - Task Executor #0/INFO] [geyserextras]: Version: 2.0.0-BETA-11
+[20:34:52] [floodgate - Task Executor #0/INFO] [geyserextras]: Server Type: VELOCITY
+[20:34:52] [floodgate - Task Executor #0/INFO] [geyserextras]: Platform Type: Velocity
+[20:34:52] [floodgate - Task Executor #0/INFO] [geyserextras]: Floodgate installed: Yes
+[20:34:52] [floodgate - Task Executor #0/INFO] [geyserextras]: PacketEvents installed: No
+[20:34:52] [floodgate - Task Executor #0/INFO] [geyserextras]: Loading config...
+[20:34:52] [floodgate - Task Executor #0/INFO] [geyserextras]: Enabling GeyserIntegratedPack...
+[20:34:52] [floodgate - Task Executor #0/WARN] [geyserextras]: WARNING: Floodgate is installed, so GeyserExtras Settings will not
+[20:34:52] [floodgate - Task Executor #0/WARN] [geyserextras]: show up in the Game Settings menu due to how forms work on GeyserMC.
+[20:34:52] [floodgate - Task Executor #0/WARN] [geyserextras]: If you want a temporary work around to this, use Geyser-Standalone,
+[20:34:52] [floodgate - Task Executor #0/WARN] [geyserextras]: otherwise a notification toast will show up informing players that
+[20:34:52] [floodgate - Task Executor #0/WARN] [geyserextras]: they will have to double tap inventory.
+[20:34:52] [floodgate - Task Executor #0/INFO] [geyserextras]: Registering events...
+[20:34:53] [Thread-2/WARN] [geyserextras]: GeyserExtras is on the latest version.
+[20:34:53] [floodgate - Task Executor #0/INFO] [skinsrestorer]: Floodgate skin listener registered
+[20:34:54] [SkinsRestorer - Task Executor #0/INFO] [skinsrestorer]: ----------------------------------------------
+[20:34:54] [SkinsRestorer - Task Executor #0/INFO] [skinsrestorer]:     +==================+
+[20:34:54] [SkinsRestorer - Task Executor #0/INFO] [skinsrestorer]:     |   SkinsRestorer  |
+[20:34:54] [SkinsRestorer - Task Executor #0/INFO] [skinsrestorer]:     |------------------|
+[20:34:54] [SkinsRestorer - Task Executor #0/INFO] [skinsrestorer]:     +==================+
+[20:34:54] [SkinsRestorer - Task Executor #0/INFO] [skinsrestorer]: ----------------------------------------------
+[20:34:54] [SkinsRestorer - Task Executor #0/INFO] [skinsrestorer]:     Version: 15.9.1
+[20:34:54] [SkinsRestorer - Task Executor #0/INFO] [skinsrestorer]:     Commit: ee713cb
+[20:34:54] [SkinsRestorer - Task Executor #0/INFO] [skinsrestorer]:     A new version (15.9.2) is available!
+[20:34:54] [SkinsRestorer - Task Executor #0/INFO] [skinsrestorer]:     https://modrinth.com/plugin/skinsrestorer/version/15.9.2
+[20:34:54] [SkinsRestorer - Task Executor #0/INFO] [skinsrestorer]: ----------------------------------------------
+[20:34:54] [SkinsRestorer - Task Executor #0/INFO] [skinsrestorer]: Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[20:34:54] [SkinsRestorer - Task Executor #0/INFO] [skinsrestorer]: Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[20:34:54] [Via-Mappingloader-1/INFO] [viaversion]: Loading block connection mappings ...
+[20:34:55] [floodgate - Task Executor #0/INFO] [viaversion]: Replacing channel initializers; you can safely ignore the following two warnings.
+[20:34:55] [floodgate - Task Executor #0/WARN] [com.velocitypowered.proxy.network.ConnectionManager]: The server channel initializer has been replaced by java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+[20:34:55] [floodgate - Task Executor #0/WARN] [com.velocitypowered.proxy.network.ConnectionManager]: The backend channel initializer has been replaced by java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+[20:34:55] [floodgate - Task Executor #0/INFO] [viabackwards]: Loading translations...
+[20:34:55] [floodgate - Task Executor #0/INFO] [viabackwards]: Registering protocols...
+[20:34:55] [floodgate - Task Executor #0/INFO] [viarewind]: Registering protocols...
+[20:34:55] [floodgate - Task Executor #0/INFO] [viaversion]: ViaVersion detected lowest supported version by the proxy: 1.13 (393)
+[20:34:55] [floodgate - Task Executor #0/INFO] [viaversion]: Highest supported version by the proxy: 1.21.11 (774)
+[20:34:55] [ViaVersion - Task Executor #2/INFO] [viaversion]: Finished mapping loading, shutting down loader executor.
+[20:34:55] [Netty epoll Boss #0/INFO] [com.velocitypowered.proxy.network.ConnectionManager]: Listening on /[0:0:0:0:0:0:0:0]:25565
+[20:34:55] [main/INFO] [com.velocitypowered.proxy.Velocity]: Done (6.94s)!
+[20:34:55] [Geyser-Velocity - Task Executor #0/INFO] [geyser]: ******************************************
+[20:34:55] [Geyser-Velocity - Task Executor #0/INFO] [geyser]: 
+[20:34:55] [Geyser-Velocity - Task Executor #0/INFO] [geyser]: Cargando Geyser versión 2.9.2-b1015 (git-master-3332528)
+[20:34:55] [Geyser-Velocity - Task Executor #0/INFO] [geyser]: 
+[20:34:55] [Geyser-Velocity - Task Executor #0/INFO] [geyser]: ******************************************
+[20:35:00] [Geyser-Velocity - Task Executor #0/INFO] [geyser]: Geyser se inició en el puerto UDP 19132
+[20:35:00] [Geyser-Velocity - Task Executor #0/INFO] [geyserextras]: Initializing cache...
+[20:35:00] [Geyser-Velocity - Task Executor #0/INFO] [geyserextras]: Loading cache...
+[20:35:00] [Geyser-Velocity - Task Executor #0/INFO] [geyserextras]: Loading resources...
+[20:35:00] [Geyser-Velocity - Task Executor #0/INFO] [geyserextras]: Checking for pack updates...
+[20:35:00] [Geyser-Velocity - Task Executor #0/INFO] [geyserextras]: Loading resources...
+[20:35:00] [Geyser-Velocity - Task Executor #0/INFO] [geyserextras]: Loading Emote Data...
+[20:35:00] [Geyser-Velocity - Task Executor #0/INFO] [geyserextras]: Done! (8.090s)
+[20:35:00] [Geyser-Velocity - Task Executor #0/INFO] [geyserextras]: ----------------------------------------
+[20:35:00] [Geyser-Velocity - Task Executor #0/INFO] [geyser]: ¡Listo (4.495 segundos)! ¡Escribe /geyser help para obtener ayuda!
+[20:46:40] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] XxDaniel_MC9243 (/127.146.119.162:34179) has connected
+[20:46:41] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] XxDaniel_MC9243 -> lobby has connected
+[20:47:06] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [connected player] XxDaniel_MC9243 (/127.146.119.162:34179) has disconnected
+[20:47:06] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] XxDaniel_MC9243 -> lobby has disconnected
+[20:47:15] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.client.AuthSessionHandler]: [connected player] XxDaniel_MC9243 (/127.146.119.162:36467) has connected
+[20:47:15] [Netty epoll Worker #0/INFO] [com.velocitypowered.proxy.connection.MinecraftConnection]: [server connection] XxDaniel_MC9243 -> lobby has connected
